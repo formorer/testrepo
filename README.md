@@ -1,4 +1,4 @@
 testrepo
 ========
 
-testrepo
+Just a simple testrepo
